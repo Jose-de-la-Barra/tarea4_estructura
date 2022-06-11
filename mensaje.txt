@@ -1,0 +1,8 @@
+first_name,danger_category,attack_prob
+Kearney Carding,1,0.2733129
+Conney Lochrie,5,0.89
+Lory Brydie,3,0.3140912
+Jon Theodore,5,0.89
+Jon Rahm,5,0.55
+Lydia Ko,4,0.33
+Brooke Henderson,3,0.75923
